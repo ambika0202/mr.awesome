@@ -1,1 +1,2 @@
-# mr.awesome
+# program-1
+To check the given arrays are equal or not.
